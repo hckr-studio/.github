@@ -1,6 +1,4 @@
-# hckr.studio
-
-Hi, we are [hckr.studio](https://hckr.studio)!
+# Hi, we are [hckr.studio](https://hckr.studio)!
 
 <dl>
   <dt>/ˈhækə(r)/</dt>
@@ -16,3 +14,5 @@ We do all the web things.
 * **Web scraping** - reliable, cost effective, world scale
 * **Slack integrations**
 * **Cloudflare platform development** - serverless soulitions
+
+And also audio-visual stuff.
