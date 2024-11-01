@@ -1,5 +1,7 @@
 # Hi, we are [hckr.studio](https://hckr.studio)!
 
+We help businesses and individuals succeed in the digital world.
+
 <dl>
   <dt>/ˈhækə(r)/</dt>
   <dd>a person who uses or writes computer programs with enthusiasm and skill</dd>
