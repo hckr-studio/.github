@@ -15,6 +15,5 @@ We do all the web things.
 * **Web extensions development** 
 * **Web scraping** - reliable, cost effective, world scale
 * **Slack integrations**
-* **Cloudflare platform development** - serverless soulitions
+* **Cloudflare platform development** - serverless solutions
 
-And also audio-visual stuff.
