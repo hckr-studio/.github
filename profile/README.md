@@ -36,7 +36,7 @@ We are who we are — decades of shipped systems, no corporate blandness, no cos
 **Legacy takeover** — the system nobody wants to touch still carries your business value. We don't break it — we pay off its technical debt, then make it earn interest.  
 → Debt paid down, value earning interest
 
-**Start small:** System Health Audit → Optimization Sprint → Managed Operations. Fixed scope, fixed price, defined output — no obligation to continue. Full services on /services.
+**Start small:** System Health Audit → Optimization Sprint → Managed Operations. Fixed scope, fixed price, defined output — no obligation to continue.
 
 ---
 
